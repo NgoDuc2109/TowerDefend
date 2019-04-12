@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 8188bf263f4276a48bf04e7a3b030376
+timeCreated: 1461750476
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AirUnitTilesDying_0
+    21300002: AirUnitTilesDying_1
+    21300004: AirUnitTilesDying_2
+    21300006: AirUnitTilesDying_3
+    21300008: AirUnitTilesDying_4
+    21300010: AirUnitTilesDying_5
+    21300012: AirUnitTilesDying_6
+    21300014: AirUnitTilesDying_7
+    21300016: AirUnitTilesDying_8
+    21300018: AirUnitTilesDying_9
+    21300020: AirUnitTilesDying_10
+    21300022: AirUnitTilesDying_11
+    21300024: AirUnitTilesDying_12
+    21300026: AirUnitTilesDying_13
+    21300028: AirUnitTilesDying_14
+    21300030: AirUnitTilesDying_15
+    21300032: AirUnitTilesDying_16
+    21300034: AirUnitTilesDying_17
+    21300036: AirUnitTilesDying_18
+    21300038: AirUnitTilesDying_19
+    21300040: AirUnitTilesDying_20
+    21300042: AirUnitTilesDying_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AirUnitTilesDying_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 26
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AirUnitTilesDying_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 35.5}
+        - {x: -8.5, y: 35.5}
+        - {x: -17.5, y: 27.5}
+        - {x: -17.5, y: 13.5}
+        - {x: -10.5, y: 8.5}
+        - {x: 6.5, y: 8.5}
+        - {x: 17.5, y: 12.5}
+        - {x: 17.5, y: 27.5}
+        - {x: 9.5, y: 34.5}
+    - name: AirUnitTilesDying_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 35.5}
+        - {x: -21, y: 8.5}
+        - {x: 21, y: 8.5}
+        - {x: 21, y: 30.5}
+        - {x: 19, y: 35.5}
+    - name: AirUnitTilesDying_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AirUnitTilesDying_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 36.5}
+        - {x: -14.5, y: 8.5}
+        - {x: 16.5, y: 8.5}
+        - {x: 16.5, y: 36.5}
+    - name: AirUnitTilesDying_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 9.5}
+        - {x: 5, y: 10.5}
+        - {x: 5, y: 13.5}
+        - {x: 2, y: 14.5}
+        - {x: 0, y: 12.5}
+      - - {x: 7, y: 36.5}
+        - {x: 0, y: 32.5}
+        - {x: -2, y: 31.5}
+        - {x: -2, y: 29.5}
+        - {x: -1, y: 34.5}
+        - {x: -1, y: 36.5}
+        - {x: -17, y: 36.5}
+        - {x: -23, y: 33.5}
+        - {x: -23, y: 10.5}
+        - {x: -21, y: 9.5}
+        - {x: 20, y: 9.5}
+        - {x: 20, y: 32.5}
+        - {x: 14, y: 36.5}
+      - - {x: 20, y: 16.5}
+        - {x: 23, y: 17.5}
+        - {x: 23, y: 20.5}
+        - {x: 20, y: 21.5}
+        - {x: 18, y: 19.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
